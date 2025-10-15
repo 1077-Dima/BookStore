@@ -1,0 +1,15 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# Node.js dependencies (if you have a frontend)
+node_modules/
+
+# Logs
+*.log
